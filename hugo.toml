@@ -1,4 +1,4 @@
 baseURL = 'https://alexlehman.site/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ruch Roamings'
 theme = 'hugo-theme-stack'
