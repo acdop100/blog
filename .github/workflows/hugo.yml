@@ -53,8 +53,8 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-          clientID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
-          token: ${{ secrets.TINA_TOKEN }}
+          TINA_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: |
           echo $TINA_TOKEN && npm run tinacms build && hugo \
             --minify \
