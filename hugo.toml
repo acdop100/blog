@@ -15,7 +15,7 @@ pygmentsCodeFences=true
   sub = "We're travelling around the world"
 
 [params.main]
-  latestPublishHeader = "Blog Posts"
+  latestPublishHeader = "Our latest blog post:"
 
 [taxonomies]
   design = "designs"

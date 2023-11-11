@@ -1,7 +1,7 @@
 ---
 title: HOME
-description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+description: Welcome to our blog
+images: ["/images/avatar.png"]
 ---
 
 Hey,
