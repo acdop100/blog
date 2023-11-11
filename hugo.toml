@@ -11,7 +11,7 @@ pygmentsCodeFences=true
     path = "github.com/acdop100/personal-web"
 
 [params.intro]
-  main = "Hi, we're the Ruchs! :wave:"
+  main = "Hi, we're the Ruches! :wave:"
   sub = "We're travelling around the world"
 
 [params.main]
