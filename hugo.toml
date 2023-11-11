@@ -14,6 +14,9 @@ pygmentsCodeFences=true
   main = "Hi, we're the Ruchs! :wave:"
   sub = "We're travelling around the world"
 
+[params.main]
+  latestPublishHeader = "Blog Posts"
+
 [taxonomies]
   design = "designs"
   tech = "techs"
@@ -23,8 +26,8 @@ pygmentsCodeFences=true
 
 [params]
   breadcrumb = true
-  accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  accentColor = "#112f41"
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
   rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
@@ -48,7 +51,7 @@ pygmentsCodeFences=true
 
 [params.social]
   youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
+  instagram = "https://www.instagram.com/ruchroamings"
 
 [params.contact]
   email = ""
