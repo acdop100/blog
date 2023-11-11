@@ -1,3 +1,6 @@
-[submodule "themes/hugo-theme-stack"]
-	path = themes/hugo-theme-stack
-	url = https://github.com/acdop100/hugo-theme-stack/
+# [submodule "themes/hugo-theme-stack"]
+# 	path = themes/hugo-theme-stack
+# 	url = https://github.com/acdop100/hugo-theme-stack/
+[submodule "themes/personal-web"]
+	path = themes/personal-web
+	url = https://github.com/acdop100/personal-web.git
