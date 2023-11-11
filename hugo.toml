@@ -1,7 +1,6 @@
 baseURL = 'https://ruchroamings.com'
 languageCode = 'en-us'
 title = 'Ruch Roamings'
-theme = 'personal-web'
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
