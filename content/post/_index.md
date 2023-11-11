@@ -1,6 +1,6 @@
 ---
-title: About
-description: General description
+title: Blog
+description: Blog posts page
 images: ["/images/avatar.png"]
 ---
 

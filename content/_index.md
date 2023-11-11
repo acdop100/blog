@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Home
 description: Welcome to our blog
 images: ["/images/avatar.png"]
 ---
