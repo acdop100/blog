@@ -9,7 +9,6 @@ pygmentsCodeFences=true
 [module]
   [[module.imports]]
     path = "github.com/acdop100/personal-web"
-    disable = false
 
 [params.intro]
   main = "Hi, we're the Ruchs! :wave:"

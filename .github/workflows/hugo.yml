@@ -56,7 +56,7 @@ jobs:
           TINA_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: |
-          hugo mod get -u  
+          hugo mod get -u github.com/acdop100/personal-web && \
           echo $TINA_TOKEN && npm run tinacms build && hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
