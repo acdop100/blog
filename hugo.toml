@@ -11,7 +11,7 @@ pygmentsCodeFences=true
     path = "github.com/acdop100/personal-web"
 
 [params.intro]
-  main = "Hi, we're the Ruches! :wave:"
+  main = "Hi, we're David and Judith Ruch!"
   sub = "We're travelling around the world"
 
 [params.main]
@@ -28,7 +28,7 @@ pygmentsCodeFences=true
   breadcrumb = true
   accentColor = "#112f41"
   mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
-  rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
+  rendererSafe = true # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/

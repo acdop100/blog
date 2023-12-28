@@ -1,7 +1,9 @@
 ---
 title: About
 description: General description
-images: ["/images/avatar.png"]
+images:
+  - /images/avatar.png
+share: true
 ---
 
 
