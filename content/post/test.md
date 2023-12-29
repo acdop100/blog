@@ -6,3 +6,5 @@ share: true
 
 test
 Lorem ipsum dolor
+
+![](../../static/images/nature.jpg)
