@@ -1,7 +1,5 @@
 ---
-title: Hello, World!
-date: <% tp.file.creation_date() %>
+title: Blog post title
+date: <% moment().format() %>
 share: true
 ---
-
-Lorem ipsum dolor
