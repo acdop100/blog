@@ -8,4 +8,4 @@ share: true
 test
 Lorem ipsum dolor
 
-![](./nature.jpg)
+![](images/nature3.jpg)
