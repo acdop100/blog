@@ -8,5 +8,3 @@ share: true
 test2!
 
 ![nature image](/images/nature5.jpg)
-![nature image2](../nature2.jpg)
-![nature image3](nature2.jpg)
