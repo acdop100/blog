@@ -1,8 +1,11 @@
 ---
-title: Blog
-description: Blog posts page
-images: ["/images/avatar.png"]
+title: About
+description: General description
+images:
+  - /images/avatar.png
+share: true
 ---
+
 
 
 This is my about page. :wave:
