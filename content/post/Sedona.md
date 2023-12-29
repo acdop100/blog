@@ -6,4 +6,4 @@ share: true
 
 We recently took a trip to Sedona, AZ.
 
-![What Sedona doesn't look like](../../static/images/nature.jpg)
+![What Sedona doesn't look like](../../images/nature.jpg)
