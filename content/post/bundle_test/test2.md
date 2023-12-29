@@ -7,4 +7,4 @@ share: true
 
 test2!
 
-![](/images/nature3.jpg)
+![](images/nature3.jpg)
