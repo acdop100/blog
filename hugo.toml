@@ -12,12 +12,12 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, we're David and Judith Ruch!"
-  sub = "We're travelling around the world"
+  sub = "Retired · Relaunching · Roaming the world full time" 
 
 [params.main]
   latestPublishHeader = "Our latest blog post:"
 
-[taxonomies]
+[taxo·nomies]
   design = "designs"
   tech = "techs"
 
