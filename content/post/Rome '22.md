@@ -1,0 +1,13 @@
+---
+share: "true"
+title: My Trip to Rome
+date: 2023-12-29T17:44:41-07:00
+---
+
+
+We took a trip to Rome. 
+
+️We are Judith and David, embarking on an early retirement journey to see and experience the globe. Join us as we turn our travel dreams into reality. Along the way, we hope to offer practical tips and resources for both wanderers and dreamers like us as we discover breathtaking destinations and cultural adventures. 
+
+
+![Judith and David at the Grand Canyon](../../images/DJI_20231226_150431_418.jpg)
