@@ -42,9 +42,9 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '/images/background.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = '/images/avatar.JPG' # - default "/images/edna-west.jpg"
+  logo = '/images/avatar.JPG'
 [params.assets]
   favicon = ""
   customCSS = ""
