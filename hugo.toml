@@ -17,7 +17,7 @@ pygmentsCodeFences=true
 [params.main]
   latestPublishHeader = "Our latest blog post:"
 
-[taxo·nomies]
+[taxonomies]
   design = "designs"
   tech = "techs"
 
