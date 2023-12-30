@@ -6,7 +6,4 @@ images:
 share: true
 ---
 
-
-This is my about page. :wave:
-
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+️We are Judith and David, embarking on an early retirement journey to see and experience the globe. Join us as we turn our travel dreams into reality. Along the way, we hope to offer practical tips and resources for both wanderers and dreamers like us as we discover breathtaking destinations and cultural adventures. 
