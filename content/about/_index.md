@@ -2,7 +2,7 @@
 title: About
 description: General description
 images:
-  - /images/avatar.png
+  - /images/avatar.JPG
 share: true
 ---
 

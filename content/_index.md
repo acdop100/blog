@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Welcome to our blog
-images: ["/images/avatar.png"]
+images: ["/images/avatar.JPG"]
 ---
 
 Hey,
