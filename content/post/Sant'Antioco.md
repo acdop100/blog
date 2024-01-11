@@ -4,7 +4,7 @@ title: Sardinia
 date: 2024-01-10T16:43:40+07:00
 ---
 
-![](../../images/Pasted image 20240110164636.png)
+![](../../images/20240110164636.png)
 Title: "Sant’Antioco, Sardinia: Where Time Takes a Siesta and Charm Takes the Spotlight"
 
 Hey wanderlust seekers! If you're yearning for a travel destination that feels like a warm hug from your favorite nonna, then pack your bags and point your compass towards Sant’Antioco, Sardinia. This Italian gem is not your typical tourist hotspot; it's more like that secret garden your adventurous soul has been itching to discover.
@@ -19,7 +19,7 @@ Village Vibes: Where Tradition Meets Trendiness
 
 Sant’Antioco's villages are like characters in a delightful storybook. Visit the town of Calasetta, where pastel-colored buildings line narrow streets, and the aroma of fresh seafood wafts through the air. It’s like being in a charming Italian movie, but you get to play the lead role. 
 
-  ![](../../images/Pasted image 20240110164744.png)
+  ![](../../images/20240110164744.png)
 
 _*insert calasetta photo_
 
